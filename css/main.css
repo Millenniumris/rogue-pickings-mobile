@@ -130,7 +130,7 @@ header nav ul li a{
 .section-two,
 .section-three {
 	width: 33%;
-	border-top: 1px solid #eee;
+	border-top: 0.5px solid #eee;
 	display: flex;
 	flex-flow: row wrap;
 	flex-basis: 400px;
@@ -147,7 +147,7 @@ header nav ul li a{
 
 .section-two h3,
 .section-three h3 {
-	padding: 10px 0px .5px;
+	padding: 10px 0px .5px 0px;
 	display:flex;
 }
 
@@ -178,7 +178,7 @@ footer {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border-top: 3px solid #eee;
+	border-top: 1px solid #eee;
 	margin: 0 auto;
 	text-align: center;
 	flex-flow: row wrap;
